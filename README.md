@@ -3,8 +3,8 @@
 Components samples and todo list in Vue exercise.
 
 ## Requirements
-- npm installed (OS dependent)
 - nvm installed (OS dependent)
+- OR node >=18
 
 ## Project Setup
 
